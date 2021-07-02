@@ -37,6 +37,7 @@ import pocket from './logos/pocket.png'
 import polypane from './logos/polypane.png'
 import spotify from './logos/spotify.png'
 import waterfox from './logos/waterfox.png'
+import librewolf from './logos/librewolf.png'
 
 export const logos: { [key: string]: string } = {
   'com.brave.Browser': brave,
@@ -77,4 +78,5 @@ export const logos: { [key: string]: string } = {
   'com.gab.Dissenter': dissenter,
   'net.kassett.finicky': finicky,
   'com.spotify.client': spotify,
+  'io.gitlab.librewolf-community.librewolf': librewolf,
 }

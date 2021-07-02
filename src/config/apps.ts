@@ -166,4 +166,8 @@ export const apps: App[] = [
     name: 'Spotify',
     id: 'com.spotify.client',
   },
+  {
+    name: 'Librewolf',
+    id: 'io.gitlab.librewolf-community.librewolf',
+  },
 ]
